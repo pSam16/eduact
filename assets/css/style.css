@@ -75,7 +75,7 @@ ul{
     margin-right: 0 !important;
 }
 
-/*------------------------------------------------------- banner section start */
+/*-------------------------------------------- banner section start */
 .banner{
     position: relative;
 }
@@ -214,7 +214,7 @@ ul{
     background: linear-gradient(147deg, #FF7200 0%, #6A78FF 100%);
     box-shadow: 27px 27px 52px 0px rgba(0, 0, 0, 0.08);
 }
-/* -----------------------------------------------service section start */
+/* -------------------------------------------service section start */
 .service{
 background-image: url(../img/service-bg-1-dark.png);
 background-size: cover;
@@ -271,7 +271,7 @@ background-position: center;
     color: #f1f2fd;
 }
 
-/* ----------------------------------------------about section start */
+/* ------------------------------------------about section start */
 .ab-us{
     position: relative;
 }
